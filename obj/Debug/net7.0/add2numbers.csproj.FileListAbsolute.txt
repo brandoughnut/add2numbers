@@ -1,0 +1,14 @@
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/add2numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/add2numbers.AssemblyInfoInputs.cache
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/add2numbers.AssemblyInfo.cs
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/add2numbers.csproj.CoreCompileInputs.cache
+/Users/brandon/Documents/Codestack/practice/add2numbers/bin/Debug/net7.0/add2numbers
+/Users/brandon/Documents/Codestack/practice/add2numbers/bin/Debug/net7.0/add2numbers.deps.json
+/Users/brandon/Documents/Codestack/practice/add2numbers/bin/Debug/net7.0/add2numbers.runtimeconfig.json
+/Users/brandon/Documents/Codestack/practice/add2numbers/bin/Debug/net7.0/add2numbers.dll
+/Users/brandon/Documents/Codestack/practice/add2numbers/bin/Debug/net7.0/add2numbers.pdb
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/add2numbers.dll
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/refint/add2numbers.dll
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/add2numbers.pdb
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/add2numbers.genruntimeconfig.cache
+/Users/brandon/Documents/Codestack/practice/add2numbers/obj/Debug/net7.0/ref/add2numbers.dll
